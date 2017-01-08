@@ -1,0 +1,1790 @@
+{
+  "Questions": [
+
+    {
+          "Question": "Which of the following is not a correct variable type?
+     ",      "CorrectAnswer": 1,
+          "Answers": [
+            {
+              "Answer": " Float.
+     "
+            },
+            {
+              "Answer": " Real.
+     "
+            },
+            {
+              "Answer": " Int.
+     "
+            },
+            {
+              "Answer": " Double.
+     "
+            }
+          ]
+        },{
+               "Question": "____________ is a stream connected to standard output.
+          ",      "CorrectAnswer": 3,
+               "Answers": [
+                 {
+                   "Answer": " Cin.
+          "
+                 },
+                 {
+                   "Answer": " Gets.
+          "
+                 },
+                 {
+                   "Answer": " Out.
+          "
+                 },
+                 {
+                   "Answer": " Cout.
+          "
+                 }
+               ]
+             },{
+               "Question": "An exception is caught based on its _______________.
+          ",      "CorrectAnswer": 2,
+               "Answers": [
+                 {
+                   "Answer": " keyword.
+          "
+                 },
+                 {
+                   "Answer": " address.
+          "
+                 },
+                 {
+                   "Answer": " type.
+          "
+                 },
+                 {
+                   "Answer": " pointer.
+          "
+                 }
+               ]
+             },{
+               "Question": "____________ function is a short function that gets or sets the value of a private instance variable.
+          ",      "CorrectAnswer": 1,
+               "Answers": [
+                 {
+                   "Answer": " Inline.
+          "
+                 },
+                 {
+                   "Answer": " Accessor.
+          "
+                 },
+                 {
+                   "Answer": " Member.
+          "
+                 },
+                 {
+                   "Answer": " Recursive
+          "
+                 }
+               ]
+             },{
+               "Question": "_____________________ inheritance is achieved when more than one class acts as base classes for other classes.
+          ",      "CorrectAnswer": 0,
+               "Answers": [
+                 {
+                   "Answer": " Multiple.
+          "
+                 },
+                 {
+                   "Answer": " Multilevel.
+          "
+                 },
+                 {
+                   "Answer": " Hierarchical.
+          "
+                 },
+                 {
+                   "Answer": " Single.
+          "
+                 }
+               ]
+             },{
+               "Question": "___________ is the output operator.
+          ",      "CorrectAnswer": 3,
+               "Answers": [
+                 {
+                   "Answer": " >>.
+          "
+                 },
+                 {
+                   "Answer": " <.
+          "
+                 },
+                 {
+                   "Answer": " >.
+          "
+                 },
+                 {
+                   "Answer": " <<.
+          "
+                 }
+               ]
+             },{
+               "Question": "_________ type specifies a valueless expression.
+          ",      "CorrectAnswer": 3,
+               "Answers": [
+                 {
+                   "Answer": " Int.
+          "
+                 },
+                 {
+                   "Answer": " Float.
+          "
+                 },
+                 {
+                   "Answer": " Bool.
+          "
+                 },
+                 {
+                   "Answer": " Void.
+          "
+                 }
+               ]
+             },{
+               "Question": "___________ operator links the name of the object with the name of the member.
+          ",      "CorrectAnswer": 1,
+               "Answers": [
+                 {
+                   "Answer": " ->.
+          "
+                 },
+                 {
+                   "Answer": " ..
+          "
+                 },
+                 {
+                   "Answer": " &.
+          "
+                 },
+                 {
+                   "Answer": " *.
+          "
+                 }
+               ]
+             },{
+               "Question": "____________ operator links a class to a member.
+          ",      "CorrectAnswer": 0,
+               "Answers": [
+                 {
+                   "Answer": " : :.
+          "
+                 },
+                 {
+                   "Answer": " ..
+          "
+                 },
+                 {
+                   "Answer": " ->.
+          "
+                 },
+                 {
+                   "Answer": " *.
+          "
+                 }
+               ]
+             },{
+               "Question": "The ______ access specifier allows functions or data to be accessible to other parts of the program.
+          ",      "CorrectAnswer": 2,
+               "Answers": [
+                 {
+                   "Answer": " private.
+          "
+                 },
+                 {
+                   "Answer": " protected.
+          "
+                 },
+                 {
+                   "Answer": " public
+          "
+                 },
+                 {
+                   "Answer": " inherited.
+          "
+                 }
+               ]
+             },{
+               "Question": "The __________ member variable cannot have a initializer.
+          ",      "CorrectAnswer": 1,
+               "Answers": [
+                 {
+                   "Answer": " static.
+          "
+                 },
+                 {
+                   "Answer": " non-static.
+          "
+                 },
+                 {
+                   "Answer": " auto.
+          "
+                 },
+                 {
+                   "Answer": " register.
+          "
+                 }
+               ]
+             },{
+               "Question": "One of the method to stop the execution of the function is by calling the standard ________ function.
+          ",      "CorrectAnswer": 3,
+               "Answers": [
+                 {
+                   "Answer": " goto.
+          "
+                 },
+                 {
+                   "Answer": " jump.
+          "
+                 },
+                 {
+                   "Answer": " stop.
+          "
+                 },
+                 {
+                   "Answer": " exit.
+          "
+                 }
+               ]
+             },{
+               "Question": "________ operator returns the address of the identifier.
+          ",      "CorrectAnswer": 3,
+               "Answers": [
+                 {
+                   "Answer": " "
+                 },
+                 {
+                   "Answer": " &.
+          "
+                 },
+                 {
+                   "Answer": " *.
+          "
+                 },
+                 {
+                   "Answer": " &&.
+          "
+                 }
+               ]
+             },{
+               "Question": "A reference parameter is declared by preceding with ___________.
+          ",      "CorrectAnswer": 1,
+               "Answers": [
+                 {
+                   "Answer": " *.
+          "
+                 },
+                 {
+                   "Answer": " &.
+          "
+                 },
+                 {
+                   "Answer": " &&.
+          "
+                 },
+                 {
+                   "Answer": " ~.
+          "
+                 }
+               ]
+             },{
+               "Question": "__________________ is the concept that binds together data and functions that manipulate the data.
+          ",      "CorrectAnswer": 2,
+               "Answers": [
+                 {
+                   "Answer": " Inheritance.
+          "
+                 },
+                 {
+                   "Answer": " Polymorphism.
+          "
+                 },
+                 {
+                   "Answer": " Data Encapsulation.
+          "
+                 },
+                 {
+                   "Answer": " Data Abstraction.
+          "
+                 }
+               ]
+             },{
+               "Question": "The detailed comments can be written inside the ______ tags.
+          ",      "CorrectAnswer": 2,
+               "Answers": [
+                 {
+                   "Answer": " /+ +/
+          "
+                 },
+                 {
+                   "Answer": " /& &/
+          "
+                 },
+                 {
+                   "Answer": " /* */
+          "
+                 },
+                 {
+                   "Answer": " <@ @>
+          "
+                 }
+               ]
+             },{
+               "Question": "Which of the following is a valid syntax?
+          ",      "CorrectAnswer": 2,
+               "Answers": [
+                 {
+                   "Answer": " float b = float c;
+          "
+                 },
+                 {
+                   "Answer": " b = float c;
+          "
+                 },
+                 {
+                   "Answer": " float b = c;
+          "
+                 },
+                 {
+                   "Answer": " float char b;
+          "
+                 }
+               ]
+             },{
+               "Question": "The pointer to the owner object is called as ______________
+          ",      "CorrectAnswer": 2,
+               "Answers": [
+                 {
+                   "Answer": " same
+          "
+                 },
+                 {
+                   "Answer": " owner
+          "
+                 },
+                 {
+                   "Answer": " this
+          "
+                 },
+                 {
+                   "Answer": " self
+          "
+                 }
+               ]
+             },{
+                    "Question": "Which of the following is the boolean operator for logical-and?
+               ",      "CorrectAnswer": 1,
+                    "Answers": [
+                      {
+                        "Answer": " &.
+               "
+                      },
+                      {
+                        "Answer": " &&.
+               "
+                      },
+                      {
+                        "Answer": " |.
+               "
+                      },
+                      {
+                        "Answer": " |&.
+               "
+                      }
+                    ]
+                  },{
+                    "Question": "There is a unique function in C++ program by where all C++ programs start their execution with _____________.
+               ",      "CorrectAnswer": 2,
+                    "Answers": [
+                      {
+                        "Answer": " start().
+               "
+                      },
+                      {
+                        "Answer": " begin().
+               "
+                      },
+                      {
+                        "Answer": " main().
+               "
+                      },
+                      {
+                        "Answer": " output().
+               "
+                      }
+                    ]
+                  },{
+                    "Question": " A continue statement causes execution to skip to ____________.
+               ",      "CorrectAnswer": 3,
+                    "Answers": [
+                      {
+                        "Answer": " the return 0; statement.
+               "
+                      },
+                      {
+                        "Answer": " the first statement after the loop.
+               "
+                      },
+                      {
+                        "Answer": " the statement following the continue statement.
+               "
+                      },
+                      {
+                        "Answer": " the next iteration of the loop.
+               "
+                      }
+                    ]
+                  },{
+                    "Question": " __________ is an arithmetic operator.
+               ",      "CorrectAnswer": 3,
+                    "Answers": [
+                      {
+                        "Answer": " >
+               "
+                      },
+                      {
+                        "Answer": " &&
+               "
+                      },
+                      {
+                        "Answer": " ?:
+               "
+                      },
+                      {
+                        "Answer": " %
+               "
+                      }
+                    ]
+                  },{
+                    "Question": "In C++, 14 % 4 = ___________.
+               ",      "CorrectAnswer": 1,
+                    "Answers": [
+                      {
+                        "Answer": " 1
+               "
+                      },
+                      {
+                        "Answer": " 2
+               "
+                      },
+                      {
+                        "Answer": " 3
+               "
+                      },
+                      {
+                        "Answer": " 4
+               "
+                      }
+                    ]
+                  },{
+                    "Question": " The name of a variable is known as its _______________.
+               ",      "CorrectAnswer": 0,
+                    "Answers": [
+                      {
+                        "Answer": " identifier.
+               "
+                      },
+                      {
+                        "Answer": " constant.
+               "
+                      },
+                      {
+                        "Answer": " data type.
+               "
+                      },
+                      {
+                        "Answer": " base.
+               "
+                      }
+                    ]
+                  },{
+                    "Question": " When a data type contains decimal numbers, assign the type_____________.
+               ",      "CorrectAnswer": 2,
+                    "Answers": [
+                      {
+                        "Answer": " int.
+               "
+                      },
+                      {
+                        "Answer": " char.
+               "
+                      },
+                      {
+                        "Answer": " double.
+               "
+                      },
+                      {
+                        "Answer": " long int.
+               "
+                      }
+                    ]
+                  },{
+                         "Question": " The memory address of the first element of an array is called ____________.
+                    ",      "CorrectAnswer": 3,
+                         "Answers": [
+                           {
+                             "Answer": " floor address.
+                    "
+                           },
+                           {
+                             "Answer": " foundation address.
+                    "
+                           },
+                           {
+                             "Answer": " first address.
+                    "
+                           },
+                           {
+                             "Answer": " base address.
+                    "
+                           }
+                         ]
+                       },{
+                         "Question": " The continue statement _______________.
+                    ",      "CorrectAnswer": 2,
+                         "Answers": [
+                           {
+                             "Answer": " resumes the program if it is hanged.
+                    "
+                           },
+                           {
+                             "Answer": " exits from the loop.
+                    "
+                           },
+                           {
+                             "Answer": " skips the rest of the loop in current iteration.
+                    "
+                           },
+                           {
+                             "Answer": " all of above.
+                    "
+                           }
+                         ]
+                       },{
+                         "Question": " Which of the following cannot be used with the keyword virtual?
+                    ",      "CorrectAnswer": 1,
+                         "Answers": [
+                           {
+                             "Answer": " Class
+                    "
+                           },
+                           {
+                             "Answer": " constructor
+                    "
+                           },
+                           {
+                             "Answer": " Member functions
+                    "
+                           },
+                           {
+                             "Answer": " Destructor
+                    "
+                           }
+                         ]
+                       },{
+                         "Question": " _________ is a storage class specifier.
+                    ",      "CorrectAnswer": 1,
+                         "Answers": [
+                           {
+                             "Answer": " object
+                    "
+                           },
+                           {
+                             "Answer": " auto
+                    "
+                           },
+                           {
+                             "Answer": " switch
+                    "
+                           },
+                           {
+                             "Answer": " inherit
+                    "
+                           }
+                         ]
+                       },{
+                         "Question": "Which of the following is not a valid relational operator?
+                    ",      "CorrectAnswer": 1,
+                         "Answers": [
+                           {
+                             "Answer": " ==.
+                    "
+                           },
+                           {
+                             "Answer": " =>.
+                    "
+                           },
+                           {
+                             "Answer": " >=.
+                    "
+                           },
+                           {
+                             "Answer": " !=.
+                    "
+                           }
+                         ]
+                       },{
+                         "Question": " __________ is the process of using the same name for two or more functions.
+                    ",      "CorrectAnswer": 0,
+                         "Answers": [
+                           {
+                             "Answer": " Function Overloading.
+                    "
+                           },
+                           {
+                             "Answer": " Operator Overloading.
+                    "
+                           },
+                           {
+                             "Answer": " Default Function.
+                    "
+                           },
+                           {
+                             "Answer": " Constructors.
+                    "
+                           }
+                         ]
+                       },{
+      "Question": "Which of the following is not a correct variable type?
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " Float.
+ "
+        },
+        {
+          "Answer": " Real.
+ "
+        },
+        {
+          "Answer": " Int.
+ "
+        },
+        {
+          "Answer": " Double.
+ "
+        }
+      ]
+    },{
+      "Question": " _________ is not a storage class specifier.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " auto
+ "
+        },
+        {
+          "Answer": " register
+ "
+        },
+        {
+          "Answer": " static
+ "
+        },
+        {
+          "Answer": " void
+ "
+        }
+      ]
+    },{
+      "Question": " Which of the following language feature is not an access specifier in C++?
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " Public.
+ "
+        },
+        {
+          "Answer": " Private.
+ "
+        },
+        {
+          "Answer": " Protected.
+ "
+        },
+        {
+          "Answer": " Internal.
+ "
+        }
+      ]
+    },{
+      "Question": " eof( ) is the function used for _____________.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " asserting no errors in a file.
+ "
+        },
+        {
+          "Answer": " appending data to a file.
+ "
+        },
+        {
+          "Answer": " counting the amount of data in a file.
+ "
+        },
+        {
+          "Answer": " checking for end of file.
+ "
+        }
+      ]
+    },{
+      "Question": "A ________ includes data members and member functions.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " object
+ "
+        },
+        {
+          "Answer": " class
+ "
+        },
+        {
+          "Answer": " method
+ "
+        },
+        {
+          "Answer": " procedure
+ "
+        }
+      ]
+    },{
+      "Question": " C++ is a ___________ language
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " procedural
+ "
+        },
+        {
+          "Answer": " structural
+ "
+        },
+        {
+          "Answer": " modular
+ "
+        },
+        {
+          "Answer": " object oriented
+ "
+        }
+      ]
+    },{
+      "Question": " Which of the following is not a keyword?
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " static
+ "
+        },
+        {
+          "Answer": " register
+ "
+        },
+        {
+          "Answer": " stack
+ "
+        },
+        {
+          "Answer": " while
+ "
+        }
+      ]
+    },{
+      "Question": " _____________ is a function that can access to private members of the class but that is not a member of that class
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " abstract class
+ "
+        },
+        {
+          "Answer": " abstract function
+ "
+        },
+        {
+          "Answer": " inline function
+ "
+        },
+        {
+          "Answer": " friend function
+ "
+        }
+      ]
+    },{
+      "Question": " The ability of a derived class to inherit the characteristics of more than one base class is ________
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " multiple inheritance
+ "
+        },
+        {
+          "Answer": " single inheritance
+ "
+        },
+        {
+          "Answer": " multilevel inheritance
+ "
+        },
+        {
+          "Answer": " none of the above
+ "
+        }
+      ]
+    },{
+      "Question": " Which of the following operator has lowest precedence?
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " >>=
+ "
+        },
+        {
+          "Answer": " >>
+ "
+        },
+        {
+          "Answer": " ++
+ "
+        },
+        {
+          "Answer": " [ ]
+ "
+        }
+      ]
+    },{
+      "Question": " A class is a collection of _______.
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " objects
+ "
+        },
+        {
+          "Answer": " arrays
+ "
+        },
+        {
+          "Answer": " structures
+ "
+        },
+        {
+          "Answer": " functions
+ "
+        }
+      ]
+    },{
+      "Question": " ios::trunc is a file open mode for ___________.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " opening a file with its existing contents
+ "
+        },
+        {
+          "Answer": " open file for output
+ "
+        },
+        {
+          "Answer": " seek to end of file before each write
+ "
+        },
+        {
+          "Answer": " delete the file's current contents upon file open
+ "
+        }
+      ]
+    },{
+      "Question": " ___________ member function is used for testing whether file opened properly or not.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " good
+ "
+        },
+        {
+          "Answer": " eof
+ "
+        },
+        {
+          "Answer": " fail
+ "
+        },
+        {
+          "Answer": " open
+ "
+        }
+      ]
+    },{
+      "Question": "_____________ is function declared in base class and defined in derived class.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " friend
+ "
+        },
+        {
+          "Answer": " virtual
+ "
+        },
+        {
+          "Answer": " inheritance
+ "
+        },
+        {
+          "Answer": " inline
+ "
+        }
+      ]
+    },{
+      "Question": "____________ operator is used for finding the size of the variable
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " ::
+ "
+        },
+        {
+          "Answer": " ?:
+ "
+        },
+        {
+          "Answer": " ::
+ "
+        },
+        {
+          "Answer": " sizeof
+ "
+        }
+      ]
+    },{
+      "Question": "The 'returntype' of a function is ___________ when there is no value returned.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " int
+ "
+        },
+        {
+          "Answer": " null
+ "
+        },
+        {
+          "Answer": " void
+ "
+        },
+        {
+          "Answer": " double
+ "
+        }
+      ]
+    },{
+      "Question": "Which of the following is not the member of class?
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " Const function
+ "
+        },
+        {
+          "Answer": " Friend function
+ "
+        },
+        {
+          "Answer": " Virtual function
+ "
+        },
+        {
+          "Answer": " Static function
+ "
+        }
+      ]
+    },{
+      "Question": "Which of the following is an abstract data type?
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " Int
+ "
+        },
+        {
+          "Answer": " double
+ "
+        },
+        {
+          "Answer": " string
+ "
+        },
+        {
+          "Answer": " class
+ "
+        }
+      ]
+    },{
+      "Question": "Destructor has the same name as the constructor and it is preceded by ______ .
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " !
+ "
+        },
+        {
+          "Answer": " ?
+ "
+        },
+        {
+          "Answer": " ~
+ "
+        },
+        {
+          "Answer": " $
+ "
+        }
+      ]
+    },{
+      "Question": " How many types of polymorphisms are supported by C++?
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " 1
+ "
+        },
+        {
+          "Answer": " 2
+ "
+        },
+        {
+          "Answer": " 3
+ "
+        },
+        {
+          "Answer": " 4
+ "
+        }
+      ]
+    },{
+      "Question": " Which of the following concepts provides facility of using object of one class inside another class?
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " Encapsulation
+ "
+        },
+        {
+          "Answer": " Inheritance
+ "
+        },
+        {
+          "Answer": " Abstraction
+ "
+        },
+        {
+          "Answer": " Composition
+ "
+        }
+      ]
+    },{
+      "Question": "Which of the following is not a file operation?
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " Repositioning.
+ "
+        },
+        {
+          "Answer": " Truncating.
+ "
+        },
+        {
+          "Answer": " Appending.
+ "
+        },
+        {
+          "Answer": " None of above.
+ "
+        }
+      ]
+    },{
+      "Question": "The pure virtual function represents the ___________.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " inheritance.
+ "
+        },
+        {
+          "Answer": " overloading.
+ "
+        },
+        {
+          "Answer": " overriding.
+ "
+        },
+        {
+          "Answer": " interface.
+ "
+        }
+      ]
+    },{
+      "Question": "The result of a relational or logical expression is of type _________.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " integer.
+ "
+        },
+        {
+          "Answer": " float.
+ "
+        },
+        {
+          "Answer": " boolean.
+ "
+        },
+        {
+          "Answer": " character
+ "
+        }
+      ]
+    },{
+      "Question": "In C++ language, a hexadecimal number is represented by writing ____________.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " x.
+ "
+        },
+        {
+          "Answer": " xo.
+ "
+        },
+        {
+          "Answer": " ox.
+ "
+        },
+        {
+          "Answer": " h.
+ "
+        }
+      ]
+    },{
+      "Question": "The conditional expressions are evaluated from ____________.
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " top down.
+ "
+        },
+        {
+          "Answer": " bottom up.
+ "
+        },
+        {
+          "Answer": " middle.
+ "
+        },
+        {
+          "Answer": " end.
+ "
+        }
+      ]
+    },{
+      "Question": "Array is_________
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " collection of homogenous data items
+ "
+        },
+        {
+          "Answer": " collection of data items
+ "
+        },
+        {
+          "Answer": " collection of hetrogeneous data items
+ "
+        },
+        {
+          "Answer": " none
+ "
+        }
+      ]
+    },{
+      "Question": " ______ variables are permanent variables within their own function or file.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " Auto.
+ "
+        },
+        {
+          "Answer": " Static.
+ "
+        },
+        {
+          "Answer": " Extern.
+ "
+        },
+        {
+          "Answer": " Register.
+ "
+        }
+      ]
+    },{
+      "Question": "A _______ access specifier is needed only when inheritance is involved.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " public.
+ "
+        },
+        {
+          "Answer": " private.
+ "
+        },
+        {
+          "Answer": " protected.
+ "
+        },
+        {
+          "Answer": " automatic.
+ "
+        }
+      ]
+    },{
+      "Question": "___________ function allows to create very efficient code.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " Friend.
+ "
+        },
+        {
+          "Answer": " Member.
+ "
+        },
+        {
+          "Answer": " Inline.
+ "
+        },
+        {
+          "Answer": " Void.
+ "
+        }
+      ]
+    },{
+      "Question": "The switch expression must be of type _______ or _______.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " char, float.
+ "
+        },
+        {
+          "Answer": " float, int.
+ "
+        },
+        {
+          "Answer": " int, char.
+ "
+        },
+        {
+          "Answer": " char, float.
+ "
+        }
+      ]
+    },{
+      "Question": "If the condition in a for loop is false then _______.
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " code inside loop may not be executed.
+ "
+        },
+        {
+          "Answer": " program terminates.
+ "
+        },
+        {
+          "Answer": " code inside loop may be executed atleast once.
+ "
+        },
+        {
+          "Answer": " shows error.
+ "
+        }
+      ]
+    },{
+      "Question": "_______ function is not a member of the class which does not have 'this' pointer.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " Inline.
+ "
+        },
+        {
+          "Answer": " Friend.
+ "
+        },
+        {
+          "Answer": " Member.
+ "
+        },
+        {
+          "Answer": " Void.
+ "
+        }
+      ]
+    },{
+      "Question": "The _________ defines a general set of operation that will be applied to various types of data.
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " generic function.
+ "
+        },
+        {
+          "Answer": " member function.
+ "
+        },
+        {
+          "Answer": " function overloading.
+ "
+        },
+        {
+          "Answer": " operator overloading.
+ "
+        }
+      ]
+    },{
+      "Question": "The ___________ function will sort any type of array.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " tab( ).
+ "
+        },
+        {
+          "Answer": " tab out( ).
+ "
+        },
+        {
+          "Answer": " sort ( ).
+ "
+        },
+        {
+          "Answer": " bubble ( )
+ "
+        }
+      ]
+    },{
+      "Question": "The ___________ is a short function that gets or sets the value of a private instance variable.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " inline.
+ "
+        },
+        {
+          "Answer": " friend.
+ "
+        },
+        {
+          "Answer": " accessor.
+ "
+        },
+        {
+          "Answer": " void.
+ "
+        }
+      ]
+    },{
+      "Question": "A /an____________ is an implicit parameter to all member functions.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " pointer.
+ "
+        },
+        {
+          "Answer": " this.
+ "
+        },
+        {
+          "Answer": " enum.
+ "
+        },
+        {
+          "Answer": " array.
+ "
+        }
+      ]
+    },{
+      "Question": "____________ is a stream connected to standard output.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " Cin.
+ "
+        },
+        {
+          "Answer": " Gets.
+ "
+        },
+        {
+          "Answer": " Out.
+ "
+        },
+        {
+          "Answer": " Cout.
+ "
+        }
+      ]
+    },{
+      "Question": "An exception is caught based on its _______________.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " keyword.
+ "
+        },
+        {
+          "Answer": " address.
+ "
+        },
+        {
+          "Answer": " type.
+ "
+        },
+        {
+          "Answer": " pointer.
+ "
+        }
+      ]
+    },{
+      "Question": "____________ function is a short function that gets or sets the value of a private instance variable.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " Inline.
+ "
+        },
+        {
+          "Answer": " Accessor.
+ "
+        },
+        {
+          "Answer": " Member.
+ "
+        },
+        {
+          "Answer": " Recursive
+ "
+        }
+      ]
+    },{
+      "Question": "_____________________ inheritance is achieved when more than one class acts as base classes for other classes.
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " Multiple.
+ "
+        },
+        {
+          "Answer": " Multilevel.
+ "
+        },
+        {
+          "Answer": " Hierarchical.
+ "
+        },
+        {
+          "Answer": " Single.
+ "
+        }
+      ]
+    },{
+      "Question": "___________ is the output operator.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " >>.
+ "
+        },
+        {
+          "Answer": " <.
+ "
+        },
+        {
+          "Answer": " >.
+ "
+        },
+        {
+          "Answer": " <<.
+ "
+        }
+      ]
+    },{
+      "Question": "_________ type specifies a valueless expression.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " Int.
+ "
+        },
+        {
+          "Answer": " Float.
+ "
+        },
+        {
+          "Answer": " Bool.
+ "
+        },
+        {
+          "Answer": " Void.
+ "
+        }
+      ]
+    },{
+      "Question": "___________ operator links the name of the object with the name of the member.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " ->.
+ "
+        },
+        {
+          "Answer": " ..
+ "
+        },
+        {
+          "Answer": " &.
+ "
+        },
+        {
+          "Answer": " *.
+ "
+        }
+      ]
+    },{
+      "Question": "____________ operator links a class to a member.
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " : :.
+ "
+        },
+        {
+          "Answer": " ..
+ "
+        },
+        {
+          "Answer": " ->.
+ "
+        },
+        {
+          "Answer": " *.
+ "
+        }
+      ]
+    },{
+      "Question": "The ______ access specifier allows functions or data to be accessible to other parts of the program.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " private.
+ "
+        },
+        {
+          "Answer": " protected.
+ "
+        },
+        {
+          "Answer": " public
+ "
+        },
+        {
+          "Answer": " inherited.
+ "
+        }
+      ]
+    },{
+      "Question": "The __________ member variable cannot have a initializer.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " static.
+ "
+        },
+        {
+          "Answer": " non-static.
+ "
+        },
+        {
+          "Answer": " auto.
+ "
+        },
+        {
+          "Answer": " register.
+ "
+        }
+      ]
+    },{
+      "Question": "One of the method to stop the execution of the function is by calling the standard ________ function.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " goto.
+ "
+        },
+        {
+          "Answer": " jump.
+ "
+        },
+        {
+          "Answer": " stop.
+ "
+        },
+        {
+          "Answer": " exit.
+ "
+        }
+      ]
+    },{
+      "Question": " ________ operator returns the address of the identifier.
+ ",      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": " "
+        },
+        {
+          "Answer": " &.
+ "
+        },
+        {
+          "Answer": " *.
+ "
+        },
+        {
+          "Answer": " &&.
+ "
+        }
+      ]
+    },{
+      "Question": "A reference parameter is declared by preceding with ___________.
+ ",      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": " *.
+ "
+        },
+        {
+          "Answer": " &.
+ "
+        },
+        {
+          "Answer": " &&.
+ "
+        },
+        {
+          "Answer": " ~.
+ "
+        }
+      ]
+    },{
+      "Question": "__________________ is the concept that binds together data and functions that manipulate the data.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " Inheritance.
+ "
+        },
+        {
+          "Answer": " Polymorphism.
+ "
+        },
+        {
+          "Answer": " Data Encapsulation.
+ "
+        },
+        {
+          "Answer": " Data Abstraction.
+ "
+        }
+      ]
+    },{
+      "Question": "The detailed comments can be written inside the ______ tags.
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " /+ +/
+ "
+        },
+        {
+          "Answer": " /& &/
+ "
+        },
+        {
+          "Answer": " /* */
+ "
+        },
+        {
+          "Answer": " <@ @>
+ "
+        }
+      ]
+    },{
+      "Question": "Which of the following is a valid syntax?
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " float b = float c;
+ "
+        },
+        {
+          "Answer": " b = float c;
+ "
+        },
+        {
+          "Answer": " float b = c;
+ "
+        },
+        {
+          "Answer": " float char b;
+ "
+        }
+      ]
+    },{
+      "Question": "The pointer to the owner object is called as ______________
+ ",      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": " same
+ "
+        },
+        {
+          "Answer": " owner
+ "
+        },
+        {
+          "Answer": " this
+ "
+        },
+        {
+          "Answer": " self
+ "
+        }
+      ]
+    }
+
+     ]
+}

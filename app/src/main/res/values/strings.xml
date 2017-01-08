@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Being Programmer</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Being Programmer</string>
+    <string name="search">Search</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="profile_name">User Profile</string>
+    <string name="title_activity_sub_search">Search Activity</string>
+    <string name="app_subtitle">Learn.Code.Market</string>
+    <string name="SomeText">hhhhhh \n jj jj jj j jjj j jjjj j jj j jjjj jjjjj j jjjjjj\n \n jjjjjjd d d d d d d \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n d dd \n \n \n \n \n \n \n \n d \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n dd \n \n \n \n \n \n \n \n dd d d jjj jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjooooooooooooooooooj j oooooooooooooooojo</string>
+    <string name="Share_button">SHARE</string>
+    <string name="LearnMore_Button">LEARN MORE</string>
+    <string name="hello_blank_fragment">FeedBack</string>
+    <string name="Drawer_Open">Open</string>
+    <string name="Drawer_Close">Close</string>
+    <drawable name="semi_transparent">#00000400</drawable>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_theme">Choose Theme</string>
+
+
+    <string name="title_activity_being_quiz">BeingQuiz</string>
+
+
+    <string name="next">Next</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="action_back">go back</string>
+    <string name="instruction1">1. There will be 10 Questions in each set and 90 questions in Random Quiz set.</string>
+    <string name="instruction2">2. 1 point will be awarded for each correct answer.</string>
+    <string name="instruction3">3. There will be no negative markings for incorrect answer.</string>
+    <string name="instruction4">4. You can also skip any question by simply clicking on forward button.</string>
+    <string name="instruction5">5. At any moment you can finish the quiz and see your score (this can affect your points).</string>
+    <string name="title_tab_activity">Tab Activity</string>
+    <string name="Licence">         Copyright [2015] [SD Dev]  \n\n
+        Licensed under the Apache License,Version 2.0 (the \"License\");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at \n\n
+        http://www.apache.org/licenses/LICENSE-2.0 \n\n
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an \"AS IS\" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.</string>
+    <string name="version_info">Version 1.0.0        \n     © 2015 SD Developers        \n      All Right Reserved\"</string>
+    <string name="Special_thanks">Developers : \n\n\n Sahil Jalan || Deepak Pandey \n\n B.Sc. Information Technology\n DAV College,Jalandhar </string>
+    -
+    <string-array name="tabs">
+        <item>TAB1</item>
+        <item>TAB2</item>
+        <item>TAB3</item>
+    </string-array>
+
+    <string name="title_activity_splash">Being Programmer</string>
+    - <!--  TODO: Remove or change this placeholder text
+  -->
+
+</resources>

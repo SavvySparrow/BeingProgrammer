@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:id="@+id/splash_bg"
+    android:layout_gravity="center_vertical"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:id="@+id/abc"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:layout_marginBottom="94dp"
+        android:layout_above="@+id/progressBar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="0dp"
+            android:text="B"
+            android:textColor="@color/PrimaryWhite"
+            android:textSize="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-thin"
+            android:paddingRight="0dp"
+            android:text="eing"
+            android:textColor="@color/PrimaryWhite"
+            android:textSize="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="P"
+            android:textColor="@color/PrimaryWhite"
+            android:textSize="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-thin"
+            android:paddingRight="10dp"
+            android:text="rogrammer"
+            android:textColor="@color/PrimaryWhite"
+            android:textSize="30dp" />
+
+    </LinearLayout>
+
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:id="@+id/progressBar"
+        android:indeterminate="false"
+        android:indeterminateBehavior="repeat"
+        android:indeterminateOnly="true"
+        android:progressDrawable="@drawable/progress_bar"
+        android:layout_marginBottom="166dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

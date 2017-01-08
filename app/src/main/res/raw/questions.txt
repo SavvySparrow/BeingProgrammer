@@ -1,0 +1,1890 @@
+{
+"Questions":[
+{
+      "Question": " Java was developed by the company
+ ",      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": " Sun Micro systems
+ "
+        },
+        {
+          "Answer": " Microsoft
+ "
+        },
+        {
+          "Answer": " Micro tech
+ "
+        },
+        {
+          "Answer": " IBM
+ "
+        } ]  } ,{
+                     "Question": " What is the file extension of compiled java program?
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " .class
+                "
+                       },
+                       {
+                         "Answer": " .java
+                "
+                       },
+                       {
+                         "Answer": " .css
+                "
+                       },
+                       {
+                         "Answer": " .html
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " .................. keyword is used to invoke the current object.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " New
+                "
+                       },
+                       {
+                         "Answer": " That
+                "
+                       },
+                       {
+                         "Answer": " This
+                "
+                       },
+                       {
+                         "Answer": " Me
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the function is used to convert string to Number in java program?
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " to Number()
+                "
+                       },
+                       {
+                         "Answer": " conString()
+                "
+                       },
+                       {
+                         "Answer": " valueOf()
+                "
+                       },
+                       {
+                         "Answer": " toString()
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " What are the part in executing a Java program and their purposes?
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " Java Compiler
+                "
+                       },
+                       {
+                         "Answer": " Java Interpreter
+                "
+                       },
+                       {
+                         "Answer": " Java Pre-processor
+                "
+                       },
+                       {
+                         "Answer": " Directive Pre-processor
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Method overloading is one of the way that Java supports ............
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " encapsulation
+                "
+                       },
+                       {
+                         "Answer": " class
+                "
+                       },
+                       {
+                         "Answer": " inheritence
+                "
+                       },
+                       {
+                         "Answer": " polymorphism
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Java support RMI. What does this RMI stands for?
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " Random Memory Interface
+                "
+                       },
+                       {
+                         "Answer": " Remote Method Invocation
+                "
+                       },
+                       {
+                         "Answer": " Random Method Invocation
+                "
+                       },
+                       {
+                         "Answer": " Remote Memory Interface
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following represent legal flow control statements?
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " break;
+                "
+                       },
+                       {
+                         "Answer": " break();
+                "
+                       },
+                       {
+                         "Answer": " continue(inner);
+                "
+                       },
+                       {
+                         "Answer": " exit();
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " The keywords reserved but used in the initial version of Java are
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " union
+                "
+                       },
+                       {
+                         "Answer": " const
+                "
+                       },
+                       {
+                         "Answer": " inner
+                "
+                       },
+                       {
+                         "Answer": " goto
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " In java a ....................... is a sequence of characters.
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " string
+                "
+                       },
+                       {
+                         "Answer": " arrayChar
+                "
+                       },
+                       {
+                         "Answer": " groupChar
+                "
+                       },
+                       {
+                         "Answer": " collection
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Java programs perform
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " I/O methods
+                "
+                       },
+                       {
+                         "Answer": " I/O package
+                "
+                       },
+                       {
+                         "Answer": " streams
+                "
+                       },
+                       {
+                         "Answer": " compiler
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " What is byte code in the context of Java?
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " The type of code generated by a Java compiler
+                "
+                       },
+                       {
+                         "Answer": " The type of code generated by a Java Virtual Machine
+                "
+                       },
+                       {
+                         "Answer": " It is another name for Java source file
+                "
+                       },
+                       {
+                         "Answer": " It is the code written within the instance methods of a class
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following statements about abstract is true?
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " An abstract class cannot be instantiated.
+                "
+                       },
+                       {
+                         "Answer": " Constructors can be abstract.
+                "
+                       },
+                       {
+                         "Answer": " A subclass of an abstract class must defined the abstract methods.
+                "
+                       },
+                       {
+                         "Answer": " Static methods may be declared abstract.
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following statement is false?
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " The sleep() method should be enclosed in try ......... catch block
+                "
+                       },
+                       {
+                         "Answer": " The yield() method should be enclosed in try ......... catch block.
+                "
+                       },
+                       {
+                         "Answer": " A thread can be temporarily suspended from running by using the wait() method.
+                "
+                       },
+                       {
+                         "Answer": " A suspended thread using suspend() method can be revived using the resume() method.
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " The new operator dynamically allocates ..............for an object and returns a reference to it.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " classes
+                "
+                       },
+                       {
+                         "Answer": " variables
+                "
+                       },
+                       {
+                         "Answer": " memory
+                "
+                       },
+                       {
+                         "Answer": " none of the above
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following statements correctly describes an interface?
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " It's a concrete class
+                "
+                       },
+                       {
+                         "Answer": " It's a super class
+                "
+                       },
+                       {
+                         "Answer": " It's a type of abstract class
+                "
+                       },
+                       {
+                         "Answer": " It's a subclass
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " What is the priority of the Garbage collector thread of jdk?
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " Low Priority
+                "
+                       },
+                       {
+                         "Answer": " Highest Priority
+                "
+                       },
+                       {
+                         "Answer": " Medium Priority
+                "
+                       },
+                       {
+                         "Answer": " Decided at run time
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " ................ is a feature that allows one interface to be used for a general class of actions.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " Class
+                "
+                       },
+                       {
+                         "Answer": " Inheritance
+                "
+                       },
+                       {
+                         "Answer": " Polymorphism
+                "
+                       },
+                       {
+                         "Answer": " Interface
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " If m and n are int type variables, what will be the result of the expression m%n when m=-14 and n=-3?
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " 4
+                "
+                       },
+                       {
+                         "Answer": " 2
+                "
+                       },
+                       {
+                         "Answer": "-2"
+                       },
+                       {
+                         "Answer": " -4
+                "
+                       }
+                     ]
+                   },{
+                     "Question": "  What is the default return type of main() ?
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " void
+                "
+                       },
+                       {
+                         "Answer": " double
+                "
+                       },
+                       {
+                         "Answer": " float
+                "
+                       },
+                       {
+                         "Answer": "int
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " What is an example of polymorphism?
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " inner class
+                "
+                       },
+                       {
+                         "Answer": " anonymous classes
+                "
+                       },
+                       {
+                         "Answer": " method overloading
+                "
+                       },
+                       {
+                         "Answer": " method overriding
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " The variable in class is called ........ variable
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " local
+                "
+                       },
+                       {
+                         "Answer": " minimum
+                "
+                       },
+                       {
+                         "Answer": " instance
+                "
+                       },
+                       {
+                         "Answer": " define
+                "
+                       }
+                     ]
+                   },{
+                     "Question": "User defined exception can be created using ..........class.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " catch
+                "
+                       },
+                       {
+                         "Answer": " try
+                "
+                       },
+                       {
+                         "Answer": " throwable
+                "
+                       },
+                       {
+                         "Answer": " get
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " A special type of method that is used to initialize an object is called..........
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " constructor
+                "
+                       },
+                       {
+                         "Answer": " destructor
+                "
+                       },
+                       {
+                         "Answer": " modification
+                "
+                       },
+                       {
+                         "Answer": " editor
+                "
+                       }
+                     ]
+                   },{
+                     "Question": "To compare the contents of two objects ........ method is used.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " equals
+                "
+                       },
+                       {
+                         "Answer": " non equals
+                "
+                       },
+                       {
+                         "Answer": " multiple
+                "
+                       },
+                       {
+                         "Answer": " delay
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " We would like to make a member of a class visible in all subclasses regardless of what package they are in. Which one of the following keywords would archive this?
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " Private
+                "
+                       },
+                       {
+                         "Answer": " Protected
+                "
+                       },
+                       {
+                         "Answer": " Public
+                "
+                       },
+                       {
+                         "Answer": " Private Protected
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " The use of protected keyword to a member in a class will restrict its visibility as follows:
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " Visible only in the class and its subclass in the same package.
+                "
+                       },
+                       {
+                         "Answer": " Visible only inside the same package.
+                "
+                       },
+                       {
+                         "Answer": " Visible in all classes in the same package and subclasses in other
+                "
+                       },
+                       {
+                         "Answer": " Visible only in the class where it is declared.
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Object is an ........ of class.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " instance
+                "
+                       },
+                       {
+                         "Answer": " implement
+                "
+                       },
+                       {
+                         "Answer": " inheritance
+                "
+                       },
+                       {
+                         "Answer": " invoke
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " ....... is the wrapper class.
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " Random
+                "
+                       },
+                       {
+                         "Answer": " Byte
+                "
+                       },
+                       {
+                         "Answer": " Vector
+                "
+                       },
+                       {
+                         "Answer": " String
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Class is a ........ entity.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " logical
+                "
+                       },
+                       {
+                         "Answer": " Physical
+                "
+                       },
+                       {
+                         "Answer": " up normal
+                "
+                       },
+                       {
+                         "Answer": " collection of
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following denotes a javadoc comment?
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " //#
+                "
+                       },
+                       {
+                         "Answer": " /*
+                "
+                       },
+                       {
+                         "Answer": " /**
+                "
+                       },
+                       {
+                         "Answer": " //**
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Object is a ........ entity.
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " normal
+                "
+                       },
+                       {
+                         "Answer": " physical
+                "
+                       },
+                       {
+                         "Answer": " logical
+                "
+                       },
+                       {
+                         "Answer": " normal
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " One interface can inherit another by use of the keyword ........
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " public
+                "
+                       },
+                       {
+                         "Answer": " extends
+                "
+                       },
+                       {
+                         "Answer": " method name
+                "
+                       },
+                       {
+                         "Answer": " class name
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " ......... must be the first non comment statement in the file
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " package
+                "
+                       },
+                       {
+                         "Answer": " class
+                "
+                       },
+                       {
+                         "Answer": " object
+                "
+                       },
+                       {
+                         "Answer": " declaration
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " In java thread to thread communication is called ....
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " passing
+                "
+                       },
+                       {
+                         "Answer": " sending
+                "
+                       },
+                       {
+                         "Answer": " messaging
+                "
+                       },
+                       {
+                         "Answer": " calling
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Every method of a ........... is implicitly final.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " static class
+                "
+                       },
+                       {
+                         "Answer": " dynamic class
+                "
+                       },
+                       {
+                         "Answer": " final class
+                "
+                       },
+                       {
+                         "Answer": " abstract class
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Java programs are ........ independent.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " platform
+                "
+                       },
+                       {
+                         "Answer": " procedural
+                "
+                       },
+                       {
+                         "Answer": " high level
+                "
+                       },
+                       {
+                         "Answer": " Secure
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Methods having same name, same type signature are called .......
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " overriding
+                "
+                       },
+                       {
+                         "Answer": " overloading
+                "
+                       },
+                       {
+                         "Answer": " overwriting
+                "
+                       },
+                       {
+                         "Answer": " over reading
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " When several tasks are handled by a single CPU, it is called .........
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " multitasking
+                "
+                       },
+                       {
+                         "Answer": " task
+                "
+                       },
+                       {
+                         "Answer": " simultaneous
+                "
+                       },
+                       {
+                         "Answer": " taker
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " A Java program must contain a ....... method.
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " user defined
+                "
+                       },
+                       {
+                         "Answer": " main
+                "
+                       },
+                       {
+                         "Answer": " local
+                "
+                       },
+                       {
+                         "Answer": " return
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Package statement helps to create many classes to have ........ name.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " differ
+                "
+                       },
+                       {
+                         "Answer": " vanity
+                "
+                       },
+                       {
+                         "Answer": " same
+                "
+                       },
+                       {
+                         "Answer": " punch
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Threads can be created by extending .......... class.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " new
+                "
+                       },
+                       {
+                         "Answer": " operator
+                "
+                       },
+                       {
+                         "Answer": " thread
+                "
+                       },
+                       {
+                         "Answer": " super thread
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " ........... operator is used to create an array.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " new
+                "
+                       },
+                       {
+                         "Answer": " public
+                "
+                       },
+                       {
+                         "Answer": "key "
+                       },
+                       {
+                         "Answer": " main
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " A method without the body is called ......... method.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " view
+                "
+                       },
+                       {
+                         "Answer": " class
+                "
+                       },
+                       {
+                         "Answer": " abstract
+                "
+                       },
+                       {
+                         "Answer": " user defined
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Threads can be created by implementing ......... interface.
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " new
+                "
+                       },
+                       {
+                         "Answer": " create
+                "
+                       },
+                       {
+                         "Answer": " main
+                "
+                       },
+                       {
+                         "Answer": " runnable
+                "
+                       }
+                     ]
+                   },{
+                     "Question": "An abnormal condition occurring in a Java program is called ......
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " error
+                "
+                       },
+                       {
+                         "Answer": " viewer
+                "
+                       },
+                       {
+                         "Answer": " abstract
+                "
+                       },
+                       {
+                         "Answer": " exception
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following represent(s) of a hexadecimal number?
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " 570
+                "
+                       },
+                       {
+                         "Answer": " (hex)5
+                "
+                       },
+                       {
+                         "Answer": " 0X9F
+                "
+                       },
+                       {
+                         "Answer": " 0X5
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " ........ can appear only where in the body of a java method.
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " definition
+                "
+                       },
+                       {
+                         "Answer": " declaration
+                "
+                       },
+                       {
+                         "Answer": " determine
+                "
+                       },
+                       {
+                         "Answer": " package
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Graphics object can only be drawn on ........
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " view
+                "
+                       },
+                       {
+                         "Answer": " windows
+                "
+                       },
+                       {
+                         "Answer": " applet
+                "
+                       },
+                       {
+                         "Answer": " zoom
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following will produce a value of 22 if x=22.9?
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " ceil(x)
+                "
+                       },
+                       {
+                         "Answer": " round(x)
+                "
+                       },
+                       {
+                         "Answer": " rint(x)
+                "
+                       },
+                       {
+                         "Answer": " abs(x)
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " ........ is passed to a method by use of call by reference.
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " Variables
+                "
+                       },
+                       {
+                         "Answer": " Objects
+                "
+                       },
+                       {
+                         "Answer": " Methods
+                "
+                       },
+                       {
+                         "Answer": " Operators
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Using the keyboard interface you can fully abstract a ...
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " Method
+                "
+                       },
+                       {
+                         "Answer": " Keyword
+                "
+                       },
+                       {
+                         "Answer": " Class
+                "
+                       },
+                       {
+                         "Answer": " Variables
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " String constants are said to be .......... of string class.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " objects
+                "
+                       },
+                       {
+                         "Answer": " char
+                "
+                       },
+                       {
+                         "Answer": " data
+                "
+                       },
+                       {
+                         "Answer": " variable
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Java is designed for .......... environment of the Internet.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " Development
+                "
+                       },
+                       {
+                         "Answer": " Deduction
+                "
+                       },
+                       {
+                         "Answer": " Distributed
+                "
+                       },
+                       {
+                         "Answer": " Web Design
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " All java classes are derived from
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " java.lang.Class
+                "
+                       },
+                       {
+                         "Answer": " java.util.Name
+                "
+                       },
+                       {
+                         "Answer": " java.lang.Object
+                "
+                       },
+                       {
+                         "Answer": " java.awt.Window
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " The jdb is used to
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " Create a jar archive
+                "
+                       },
+                       {
+                         "Answer": " Debug a java program
+                "
+                       },
+                       {
+                         "Answer": " Create C header file
+                "
+                       },
+                       {
+                         "Answer": " Generate java documentation
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " For execution of DELETE SQL query in JDBC, ............. method
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " executeQuery()
+                "
+                       },
+                       {
+                         "Answer": " executeDeleteQuery()
+                "
+                       },
+                       {
+                         "Answer": " executeUpdate()
+                "
+                       },
+                       {
+                         "Answer": " executeDelete()
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which method will a web browser call on a new applet?
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " main method
+                "
+                       },
+                       {
+                         "Answer": " destroy method
+                "
+                       },
+                       {
+                         "Answer": " execute method
+                "
+                       },
+                       {
+                         "Answer": " init method
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following is not mandatory in variable declaration?
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " a semicolon
+                "
+                       },
+                       {
+                         "Answer": " an identifier
+                "
+                       },
+                       {
+                         "Answer": " an assignment
+                "
+                       },
+                       {
+                         "Answer": " a data type
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " When a program class implements an interface, it must provide
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " two methods defined in that interface
+                "
+                       },
+                       {
+                         "Answer": " any methods in a class
+                "
+                       },
+                       {
+                         "Answer": " only certain methods in that interface
+                "
+                       },
+                       {
+                         "Answer": " all methods defined in that interface
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " In order to run JSP .................... is required.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " Mail Server
+                "
+                       },
+                       {
+                         "Answer": " Applet viewer
+                "
+                       },
+                       {
+                         "Answer": " Java Web Server
+                "
+                       },
+                       {
+                         "Answer": " Database connection
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Prepared Statement object in JDBC used to execute........... queries.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " Executable
+                "
+                       },
+                       {
+                         "Answer": " Simple
+                "
+                       },
+                       {
+                         "Answer": " High level
+                "
+                       },
+                       {
+                         "Answer": " Parameterized
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " The .................. and .................... classes are abstract classes that support reading and writing of byte streams.
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " reader, writer
+                "
+                       },
+                       {
+                         "Answer": " inputstream, outputstream
+                "
+                       },
+                       {
+                         "Answer": " objectinputstream, objectoutputstream
+                "
+                       },
+                       {
+                         "Answer": " none
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Data input is
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " an abstract class defined in java.io
+                "
+                       },
+                       {
+                         "Answer": " a class we can use to read primitive data types
+                "
+                       },
+                       {
+                         "Answer": " an interface that defines methods to open files.
+                "
+                       },
+                       {
+                         "Answer": " an interface that defines methods to read primitive data types.
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " A package is a collection of
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " classes
+                "
+                       },
+                       {
+                         "Answer": " interfaces
+                "
+                       },
+                       {
+                         "Answer": " editing tools
+                "
+                       },
+                       {
+                         "Answer": " classes and interfaces
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following methods belong to the string class?
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " length( )
+                "
+                       },
+                       {
+                         "Answer": " compare To ( )
+                "
+                       },
+                       {
+                         "Answer": " equals ( )
+                "
+                       },
+                       {
+                         "Answer": " All of them
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " What will be the output of the following code? byte x=64, y; y= (byte) (x<<2); System.out.println(y);
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " 0
+                "
+                       },
+                       {
+                         "Answer": " 1
+                "
+                       },
+                       {
+                         "Answer": " 2
+                "
+                       },
+                       {
+                         "Answer": " 64
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " If m and n are int type variables, what will be the result of the expression m% n when m=5 and n=2 ?
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " 0
+                "
+                       },
+                       {
+                         "Answer": " 1
+                "
+                       },
+                       {
+                         "Answer": " 2
+                "
+                       },
+                       {
+                         "Answer": " None of the above
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following control expressions are valid for an if
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " An integer expression
+                "
+                       },
+                       {
+                         "Answer": " A Boolean expression
+                "
+                       },
+                       {
+                         "Answer": " Either A or B
+                "
+                       },
+                       {
+                         "Answer": " Neither A nor B
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " The concept of multiple inheritance is implemented in Java by
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " extending two or more classes
+                "
+                       },
+                       {
+                         "Answer": " extending one class and implementing one or more interfaces
+                "
+                       },
+                       {
+                         "Answer": " implementing two or more interfaces
+                "
+                       },
+                       {
+                         "Answer": " both B and C
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Which of the following do not represent legal flow control
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " break;
+                "
+                       },
+                       {
+                         "Answer": " return;
+                "
+                       },
+                       {
+                         "Answer": " exit();
+                "
+                       },
+                       {
+                         "Answer": " continue outer;
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Preparedstatement Object in JDBC is used to execute ........................... queries.
+                ",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " executable
+                "
+                       },
+                       {
+                         "Answer": " simple
+                "
+                       },
+                       {
+                         "Answer": " high level
+                "
+                       },
+                       {
+                         "Answer": " parameterized
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " In JDBC ........................ imports all Java classes concerned with
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " javax.sql.*
+                "
+                       },
+                       {
+                         "Answer": " java.mysql.*
+                "
+                       },
+                       {
+                         "Answer": " java.sql.*
+                "
+                       },
+                       {
+                         "Answer": " com.*
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " MS-SQL stores data in a ........................ file format.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " .DAT
+                "
+                       },
+                       {
+                         "Answer": " .MDB
+                "
+                       },
+                       {
+                         "Answer": " .MSSQL
+                "
+                       },
+                       {
+                         "Answer": " .OBJ
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " Ingres is a ........................
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " Socket
+                "
+                       },
+                       {
+                         "Answer": " Compiler
+                "
+                       },
+                       {
+                         "Answer": " Database
+                "
+                       },
+                       {
+                         "Answer": " Web server
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " In Java servlet method init( ) is called ..................... times.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " 1
+                "
+                       },
+                       {
+                         "Answer": " 2
+                "
+                       },
+                       {
+                         "Answer": " 0
+                "
+                       },
+                       {
+                         "Answer": " multiple
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " State true or false for Java Program. i) All class variables are instance variables ii) All protected methods are friendly methods
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " i-false, ii-false
+                "
+                       },
+                       {
+                         "Answer": " i-false, ii-true
+                "
+                       },
+                       {
+                         "Answer": " i-true, ii-false
+                "
+                       },
+                       {
+                         "Answer": " i-true, ii-true
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " A method name myMethod( ) that needs two integer arguments
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " public void myMethod( );
+                "
+                       },
+                       {
+                         "Answer": " public void myMethod(int a, int b);
+                "
+                       },
+                       {
+                         "Answer": " public void myMethod(int a, b);
+                "
+                       },
+                       {
+                         "Answer": " public int myMethod(a, b);
+                "
+                       }
+                     ]
+                   },{
+                     "Question": " ........................ of a remotely accessible object must implement ................
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " all methods, RemoteException
+"
+                       },
+                       {
+                         "Answer": " class, RemoteException
+"
+                       },
+                       {
+                         "Answer": " class, RemoteInterface
+"
+                       },
+                       {
+                         "Answer": " all methods, RemoteInterface
+"
+                       }
+                     ]
+                   },{
+                     "Question": " ......................is the key to ........................
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " Serialization, persistence
+"
+                       },
+                       {
+                         "Answer": " Persistence, inheritance
+"
+                       },
+                       {
+                         "Answer": " Inheritance, object
+"
+                       },
+                       {
+                         "Answer": " Persistence, serialization
+"
+                       }
+                     ]
+                   },{
+                     "Question": " In Java variables, if first increment of the variable takes place and then the assignment occurs. This operation is also called ............................. .
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " pre increment
+"
+                       },
+                       {
+                         "Answer": " post increment
+"
+                       },
+                       {
+                         "Answer": " incrementation
+"
+                       },
+                       {
+                         "Answer": " pre incrementation
+"
+                       }
+                     ]
+                   },{
+                     "Question": " When the operators are having the same priority, they are evaluated from ................. ............. in the order they appear in the expression.
+                ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " right to left
+"
+                       },
+                       {
+                         "Answer": " left to right
+"
+                       },
+                       {
+                         "Answer": " any of the order
+"
+                       },
+                       {
+                         "Answer": " depends on compiler
+"
+                       }
+                     ]
+                   },{
+                     "Question": " In java, ............. can only test for equality, where as ............ can evaluate any type of the Boolean expression.
+                ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " switch, if
+"
+                       },
+                       {
+                         "Answer": " if, switch
+"
+                       },
+                       {
+                         "Answer": " if, break
+"
+                       },
+                       {
+                         "Answer": " continue, if
+"
+                       }
+                     ]
+                   },{
+                     "Question": " The ....................... looks only for a match between the value of the expression and one of its case constants.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " if
+"
+                       },
+                       {
+                         "Answer": " match
+"
+                       },
+                       {
+                         "Answer": " switch
+"
+                       },
+                       {
+                         "Answer": " None of the above
+"
+                       }
+                     ]
+                   },{
+                     "Question": " System.in.read() is being used, the program must specify the .................. clause.
+                ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " throws.java.out.IOException
+"
+                       },
+                       {
+                         "Answer": " throws.java.in.IOException
+"
+                       },
+                       {
+                         "Answer": " throws.java.io.IOException
+"
+                       },
+                       {
+                         "Answer": " throws.java.io.InException
+"
+                       }
+                     ]
+                   },{
+                     "Question": " By using ................... you can force immediate termination of a loop, by passing the conditional expression and any remaining code in the body of the loop.
+  ",      "CorrectAnswer": 0,
+                     "Answers": [
+                       {
+                         "Answer": " Break
+"
+                       },
+                       {
+                         "Answer": " Continue
+"
+                       },
+                       {
+                         "Answer": " Terminate
+"
+                       },
+                       {
+                         "Answer": " Loop Close
+"
+                       }
+                     ]
+                   },{
+                     "Question": " The out object is an object encapsulated inside the ................. class, and represents the standard output device.
+",      "CorrectAnswer": 3,
+                     "Answers": [
+                       {
+                         "Answer": " standard
+"
+                       },
+                       {
+                         "Answer": " local
+"
+                       },
+                       {
+                         "Answer": " global
+"
+                       },
+                       {
+                         "Answer": " system
+"
+                       }
+                     ]
+                   },{
+                     "Question": " The third type of comment is used by a tool called .................. for automatic generation of documentation.
+  ",      "CorrectAnswer": 2,
+                     "Answers": [
+                       {
+                         "Answer": " Java commenting
+"
+                       },
+                       {
+                         "Answer": " Java generator
+"
+                       },
+                       {
+                         "Answer": " Java doc
+"
+                       },
+                       {
+                         "Answer": " Java loc
+"
+                       }
+                     ]
+                   },{
+                     "Question": " In the second type the information written in java after // is ignored by the ....................... ",      "CorrectAnswer": 1,
+                     "Answers": [
+                       {
+                         "Answer": " Interpreter
+"
+                       },
+                       {
+                         "Answer": " Compiler
+"
+                       },
+                       {
+                         "Answer": " Programmer
+"
+                       },
+                       {
+                         "Answer": " All of the above
+"
+                       }
+                     ]
+                   },{
+                                          "Question": " What would happen if 'String[]args' is not included as argument in the main method.
+  ",      "CorrectAnswer": 2,
+                                          "Answers": [
+                                            {
+                                              "Answer": " No error
+"
+                                            },
+                                            {
+                                              "Answer": " Compilation error
+ "
+                                            },
+                                            {
+                                              "Answer": " Program won't run
+  "
+                                            },
+                                            {
+                                              "Answer": " Program exit
+  "
+                                            }
+                                          ]
+                                        }
+               ]
+               }

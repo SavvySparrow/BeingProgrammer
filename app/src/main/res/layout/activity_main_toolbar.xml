@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/colorPrimaryDark"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true">
+
+    <include
+        android:id="@+id/toolbar_default"
+        layout="@layout/toolbar_default"></include>
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/toolbar_default">
+
+        <FrameLayout
+            android:id="@+id/main_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary">
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/offWhite">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:text="Material Card with Large Image and Text"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="25sp" />
+
+            </RelativeLayout>
+        </FrameLayout>
+
+        <fragment
+            android:id="@+id/fragment_drawer_navigation"
+            android:name="pj.ess.dee.beingaprogrammer.Fragments.NavigationDrawerFragment"
+            android:layout_width="@dimen/drawer_potrait_width"
+            android:layout_height="fill_parent"
+            android:layout_gravity="start"
+            app:layout="@layout/fragment_navigation_drawer"
+            tools:layout="@layout/fragment_navigation_drawer">
+
+        </fragment>
+
+    </android.support.v4.widget.DrawerLayout>
+</RelativeLayout>

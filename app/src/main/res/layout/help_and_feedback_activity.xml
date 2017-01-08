@@ -1,0 +1,145 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/PrimaryWhite"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/PrimaryWhite"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="@color/PrimaryWhite"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingLeft="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingLeft="0dp"
+                android:id="@+id/Feedback_title1"
+                android:text="B"
+                android:textColor="@color/colorPrimary"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-thin"
+                android:id="@+id/Feedback_title2"
+                android:paddingRight="0dp"
+                android:text="eing"
+                android:textColor="@color/colorPrimary"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="P"
+                android:id="@+id/Feedback_title3"
+                android:textColor="@color/colorPrimary"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-thin"
+                android:id="@+id/Feedback_title4"
+                android:paddingRight="10dp"
+                android:text="rogrammer"
+                android:textColor="@color/colorPrimary"
+                android:textSize="30dp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-thin"
+
+            android:text="Version 1.0"
+            android:textColor="#000000"
+            android:textSize="10dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="30dp"
+            android:background="@color/colorGrey"></View>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="55"
+        android:background="@color/background_material_light"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:background="@color/PrimaryWhite"
+            android:fontFamily="sans-serif-thin"
+            android:hint="Enter Name"
+            android:padding="20dp"
+            android:text=""
+            android:textColor="#000000"
+            android:textColorHint="@color/colorAccent"
+            android:textSize="15dp" />
+
+        <EditText
+            android:id="@+id/feedback"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+
+            android:background="@color/PrimaryWhite"
+            android:fontFamily="sans-serif-thin"
+            android:gravity="bottom"
+            android:hint="Feedback"
+            android:lines="5"
+            android:padding="20dp"
+            android:textColor="#000000"
+            android:textColorHint="@color/colorAccent"
+            android:textSize="15dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="right"
+            android:layout_margin="15dp"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/send"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/feedback_dw_def"
+                android:clickable="true"
+                android:fontFamily="sans-serif"
+                android:padding="20dp"
+                android:text="Send Feedback"
+                android:textColor="@color/PrimaryWhite"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
+
+

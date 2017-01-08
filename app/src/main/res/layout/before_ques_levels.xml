@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <LinearLayout
+        android:id="@+id/quiz_title_bg_id"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="87"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="0dp"
+            android:text="B"
+            android:textColor="@color/PrimaryWhite"
+            android:textSize="55dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-thin"
+            android:paddingRight="0dp"
+            android:text="eing"
+            android:textColor="@color/PrimaryWhite"
+            android:textSize="35dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="P"
+            android:textColor="@color/PrimaryWhite"
+            android:textSize="55dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-thin"
+            android:paddingRight="10dp"
+            android:text="rogrammer"
+            android:textColor="@color/PrimaryWhite"
+            android:textSize="35dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="13"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="90"
+            android:orientation="horizontal"
+            android:weightSum="100">
+
+            <LinearLayout
+                android:id="@+id/quiz_mode_id"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="87"
+                android:weightSum="100"
+                android:background="@color/colorPrimaryDark"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/quiz_title"
+                    android:layout_weight="50"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:text="Mode-Beginner"
+                    android:textColor="@color/PrimaryWhite"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/quiz_timer"
+                    android:layout_weight="50"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:textStyle="bold"
+                    android:text="NO TIMER !"
+                    android:textColor="@color/PrimaryWhite"
+                    android:textSize="20dp" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:background="@color/offWhite"
+            android:orientation="vertical"
+            android:weightSum="100">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="33"
+                android:orientation="horizontal"
+                android:weightSum="100">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="50"
+                    android:background="@drawable/before_shape1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/totalQues"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-bold"
+                        android:gravity="center_horizontal"
+                        android:text="10 "
+                        android:textColor="@color/primary_text_default_material_light"
+                        android:textSize="35dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-bold"
+
+                        android:gravity="center_horizontal"
+                        android:text="Questions"
+                        android:textColor="@color/primary_text_default_material_light"
+                        android:textSize="20dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="50"
+                    android:background="@drawable/before_shape2"
+                    android:gravity="center"
+
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/totalMarks"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-bold"
+                        android:gravity="center_horizontal"
+                        android:text="10 "
+                        android:textColor="@color/colorGreen"
+                        android:textSize="35dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-bold"
+                        android:gravity="center_horizontal"
+                        android:text="Marks"
+                        android:textColor="@color/colorGreen"
+                        android:textSize="20dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="27"
+                android:orientation="vertical"
+                android:weightSum="30">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="30"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.2"
+                        android:gravity="center"
+                        android:id="@+id/quesmark1"
+                        android:text=" ?"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="90dp" />
+
+                    <TextView
+                        android:id="@+id/complete_quiz_lines"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.6"
+                        android:background="@color/offWhite"
+                        android:fontFamily="sans-serif"
+                        android:gravity="center"
+                        android:text="Complete the Challenge and Check where do u stand?"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.2"
+                        android:gravity="center"
+                        android:id="@+id/quesmark2"
+                        android:text=" ?  "
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="90dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:paddingBottom="10dp">
+
+                <TextView
+
+                    android:id="@+id/correct_points"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:gravity="center"
+                    android:paddingBottom="5dp"
+                    android:text="Correct Answer +1"
+                    android:textColor="@color/colorGreen"
+                    android:textSize="15dp" />
+
+                <TextView
+
+                    android:id="@+id/neg_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/correct_points"
+                    android:gravity="center"
+                    android:paddingBottom="5dp"
+                    android:text="No Negative Markings"
+                    android:textColor="@color/colorGreen"
+                    android:textSize="15dp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/Start_Quiz"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="40"
+                android:background="@drawable/startchallenge_dw">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="sans-serif-light"
+                    android:gravity="center"
+                    android:text="START CHALLENGE"
+                    android:textColor="@color/PrimaryWhite"
+                    android:textSize="20dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

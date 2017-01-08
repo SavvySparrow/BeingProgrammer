@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/FullViewLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="15dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="10dp"
+    android:animateLayoutChanges="true"
+    android:gravity="start">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="1"
+        android:background="@drawable/share_shape_tutorial_bg"
+        android:padding="10dp">
+
+        <WebView
+            android:id="@+id/WebView_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </WebView>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="480dp"
+    android:layout_gravity="center"
+    android:animateLayoutChanges="true"
+    android:padding="0dp">
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/theme_pager"
+        android:background="@color/dark_lilac"
+        android:layout_width="match_parent"
+        android:alpha="0.7"
+        android:layout_height="match_parent">
+
+    </android.support.v4.view.ViewPager>
+
+</RelativeLayout>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="480dp"
+    android:layout_gravity="center"
+    android:animateLayoutChanges="true"
+    android:background="@color/PrimaryWhite"
+    android:padding="20dp">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/About_title"
+            android:orientation="horizontal"
+            android:paddingLeft="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:id="@+id/About_title1"
+                android:paddingLeft="0dp"
+                android:text="B"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:id="@+id/About_title2"
+                android:fontFamily="sans-serif-thin"
+                android:paddingRight="0dp"
+                android:text="eing"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:id="@+id/About_title3"
+                android:text="P"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-thin"
+                android:id="@+id/About_title4"
+                android:paddingRight="10dp"
+                android:text="rogrammer"
+                android:textSize="30dp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:id="@+id/About_Subtitle"
+            android:text="For Android"
+            android:textColor="@color/colorAccent"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/about1_TXT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:text="@string/version_info"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="18dp"
+            android:textStyle="normal" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorGrey"
+            android:paddingBottom="10dp"></View>
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/copyright__Dev_TXT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="sans-serif-thin"
+                android:gravity="center"
+                android:text=""
+                android:textColor="@color/colorPrimaryText"
+                android:textSize="18dp"
+                android:textStyle="normal" />
+        </ScrollView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/PrimaryWhite"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/btn_dismiss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/exit_selector_neg"
+            android:clickable="true"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
+            android:padding="14dp"
+            android:text="Ok"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/btn_thanks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/btn_dismiss"
+            android:background="@drawable/exit_selector_neg"
+            android:clickable="true"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
+            android:padding="14dp"
+            android:text="Licence/Special Thanks"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+    </LinearLayout>
+
+
+</RelativeLayout>

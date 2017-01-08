@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ripple="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="5dp"
+    android:layout_marginLeft="15dp"
+    android:id="@+id/FullViewLayout"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="10dp"
+    android:animateLayoutChanges="true"
+    android:gravity="start"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/ImageLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/myImageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:alpha="1"
+            android:paddingTop="0dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/library1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+        <TextView
+
+            android:id="@+id/myImageViewTextBg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center_horizontal"
+            android:padding="12dp"
+            android:text=""
+            android:alpha="1"
+            android:layout_alignBottom="@+id/myImageView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+        android:id="@+id/main_title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sahil Jalan"
+        android:fontFamily="sans-serif-light"
+        android:paddingTop="8dp"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorPrimaryText"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_alignTop="@+id/myImageViewTextBg"
+        android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:id="@+id/Home_Page_help_ID"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:alpha="0.6"
+            android:padding="5dp"
+            android:layout_marginRight="2dp"
+            android:clickable="true"
+            android:background="@drawable/selector_help"
+            android:src="@android:drawable/ic_dialog_info"
+            android:layout_alignBottom="@+id/myImageViewTextBg"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ExpandedArea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/myImageView"
+        android:background="@drawable/share_shape"
+        android:layout_gravity="start"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="start"
+            android:orientation="vertical"
+            android:padding="0dp">
+
+            <TextView
+                android:id="@+id/homePage_titleText_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:fontFamily="sans-serif-light"
+                android:paddingLeft="0dp"
+                android:text="Title"
+                android:textSize="18sp"
+                android:textStyle="normal|bold" />
+
+            <TextView
+                android:id="@+id/Home_Page_subtitleText"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:alpha="0.7"
+                android:fontFamily="sans-serif-light"
+                android:paddingTop="8dp"
+                android:text="Subtitle"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+        android:id="@+id/Learn_More_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/PrimaryWhite"
+        android:gravity="start"
+        android:orientation="horizontal">
+
+        <com.andexert.library.RippleView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:rv_color="@color/colorGrey"
+            android:layout_marginTop="16dp"
+            app:rv_rippleDuration="150"
+            ripple:rv_type="rectangle">
+
+
+            <TextView
+                android:id="@+id/Share_ID"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:padding="15dp"
+                android:text="Share "
+                android:textColor="@color/colorPrimaryText"
+                android:textSize="18sp" />
+        </com.andexert.library.RippleView>
+
+        <com.andexert.library.RippleView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:rv_color="@color/colorGrey"
+            android:id="@+id/Learn_more_ripple_view"
+            android:layout_marginTop="16dp"
+            app:rv_rippleDuration="150"
+            android:layout_marginLeft="8dp"
+            ripple:rv_type="rectangle">
+
+            <TextView
+                android:id="@+id/LearnMore_ID"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:fontFamily="sans-serif-light"
+                android:padding="14dp"
+                android:text="Learn More"
+                android:textSize="18sp"
+                android:textStyle="normal" />
+        </com.andexert.library.RippleView>
+    </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

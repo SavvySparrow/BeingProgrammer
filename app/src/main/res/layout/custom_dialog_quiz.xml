@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/dialog_quiz"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/PrimaryWhite"
+    android:animateLayoutChanges="true"
+    android:gravity="center"
+    android:padding="15dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:id="@+id/Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif"
+            android:text="Title"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="19sp"
+            android:textStyle="normal" />
+        <TextView
+
+            android:id="@+id/SubTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+           android:lineSpacingExtra="2dp"
+            android:fontFamily="sans-serif-light"
+            android:text="SubTitle"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+        <TextView
+            android:layout_weight="40"
+            android:id="@+id/Positive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="sans-serif-light"
+            android:padding="14dp"
+            android:clickable="true"
+            android:background="@drawable/exit_selector_neg"
+            android:text="Positive"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="13sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:layout_weight="30"
+            android:id="@+id/Neutral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="sans-serif-light"
+            android:padding="13sp"
+            android:clickable="true"
+            android:background="@drawable/exit_selector_neg"
+            android:text="Neutral"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="13sp"
+            android:textStyle="normal" />
+
+
+        <TextView
+            android:id="@+id/Negative"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="sans-serif-light"
+            android:padding="13dp"
+            android:clickable="true"
+            android:background="@drawable/exit_selector_neg"
+            android:layout_weight="30"
+            android:text="Negative"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="13sp"
+            android:textStyle="normal" />
+    </LinearLayout>
+
+</RelativeLayout>

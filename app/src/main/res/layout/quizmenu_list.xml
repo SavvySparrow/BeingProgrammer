@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <LinearLayout
+        android:id="@+id/toolbar_background"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="bottom|center"
+        android:background="@color/colorPrimary"
+        android:layout_weight="16">
+
+        <include
+            android:id="@+id/toolbar_default"
+            layout="@layout/toolbar_default"></include>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/listFrag"
+        android:layout_weight="84"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <ListView
+            android:id="@+id/list_items"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+
+            android:minHeight="?android:attr/listPreferredItemHeight" />
+    </LinearLayout>
+</LinearLayout>
