@@ -1,0 +1,15 @@
+# BeingProgrammer
+![beingprogrammer_presentation2-1 1 _part1](https://cloud.githubusercontent.com/assets/24986466/21749801/84e608b6-d5cc-11e6-9a67-79579142e901.jpg)
+![beingprogrammer_presentation2-1 1 _part3](https://cloud.githubusercontent.com/assets/24986466/21749799/84d294c0-d5cc-11e6-8bbd-003c01c4a88b.jpg)
+![beingprogrammer_presentation2-1 1 _part4](https://cloud.githubusercontent.com/assets/24986466/21749798/84c9a6f8-d5cc-11e6-900b-50312ae6587a.jpg)
+![beingprogrammer_presentation2-1 1 _part5](https://cloud.githubusercontent.com/assets/24986466/21749797/84a91d16-d5cc-11e6-8a89-68cfae6233af.jpg)
+![beingprogrammer_presentation2-1 1 _part6](https://cloud.githubusercontent.com/assets/24986466/21749796/84a3e99a-d5cc-11e6-85b3-29976c4d02ab.jpg)
+![beingprogrammer_presentation2-1 1 _part7](https://cloud.githubusercontent.com/assets/24986466/21749795/849946b6-d5cc-11e6-80cb-bee828f43414.jpg)
+![beingprogrammer_presentation2-1 1 _part8](https://cloud.githubusercontent.com/assets/24986466/21749794/849072f2-d5cc-11e6-986c-bbda13772522.jpg)
+![beingprogrammer_presentation2-1 1 _part9](https://cloud.githubusercontent.com/assets/24986466/21749803/855c0e94-d5cc-11e6-8920-d7d40debc9cc.jpg)
+![beingprogrammer_presentation2-1 1 _part10](https://cloud.githubusercontent.com/assets/24986466/21749802/850d7b26-d5cc-11e6-863b-580740e2b5a2.jpg)
+![beingprogrammer_presentation2-1 1 _part11](https://cloud.githubusercontent.com/assets/24986466/21749793/846b6052-d5cc-11e6-9c0a-0b16ebc0e6d9.jpg)
+![beingprogrammer_presentation2-1 1 _part12](https://cloud.githubusercontent.com/assets/24986466/21749792/8467cadc-d5cc-11e6-92be-ebfde554b6d4.jpg)
+![beingprogrammer_presentation2-1 1 _part13](https://cloud.githubusercontent.com/assets/24986466/21749791/845ca15c-d5cc-11e6-8a94-32fee1ed9952.jpg)
+![beingprogrammer_presentation2-1 1 _part14](https://cloud.githubusercontent.com/assets/24986466/21749987/c0940f0a-d5ce-11e6-9946-da8060618a41.jpg)
+
